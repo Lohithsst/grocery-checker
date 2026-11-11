@@ -1,6 +1,6 @@
 # Grocery Delivery Checker
 
-Checks a grocery delivery against its e-receipt. A YOLO11s model detects the products, and a Gradio app crosses each one off the receipt and lists anything that was not delivered.
+Checks a grocery delivery against its e-receipt. A YOLO11s model detects the products, and a Gradio app crosses each one off the receipt and lists anything that was not delivered. Built as a school project.
 
 | First training run | Final model |
 |---|---|
