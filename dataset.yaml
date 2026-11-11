@@ -1,0 +1,10 @@
+path: dataset
+train: images/train
+val: images/val
+
+names:
+  0: Barilla Italian Pasta - Spaghetti No.5
+  1: Glico Pocky Biscuit Sticks - Chocolate
+  2: Milo 3 in 1 Instant Chocolate Malt with Milk - Regular
+  3: Nutella Hazelnut Cocoa Spread
+  4: Oreo Sandwich Cookie Multipack - Vanilla
